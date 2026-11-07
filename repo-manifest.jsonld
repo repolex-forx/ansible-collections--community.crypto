@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.crypto/commit/00d193fd380122715b57c90b3cf03648782feb90",
       "git:hexsha": "00d193fd380122715b57c90b3cf03648782feb90",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.crypto/commit/9e4728e206b5e998e4a84d7428efc59c2d2006ee",
