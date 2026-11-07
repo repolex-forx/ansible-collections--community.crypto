@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.crypto",
+  "versions": [
+    {
+      "commit": "00d193fd380122715b57c90b3cf03648782feb90",
+      "tag": "",
+      "parsed_at": "2026-11-07T14:14:00.154877+00:00"
+    }
+  ]
+}
